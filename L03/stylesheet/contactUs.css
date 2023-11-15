@@ -1,0 +1,15 @@
+h6 a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(0, 32, 128);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  h6 a:hover, a:active {
+    background-color: rgb(0, 100, 128);
+    color: white;
+  }
+  
